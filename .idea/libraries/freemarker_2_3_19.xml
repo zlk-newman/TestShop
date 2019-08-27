@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="freemarker-2.3.19">
+    <CLASSES>
+      <root url="jar://D:/整合web常用jar包/struts/freemarker-2.3.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-io-2.2">
+    <CLASSES>
+      <root url="jar://D:/整合web常用jar包/struts/commons-io-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
